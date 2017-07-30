@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "596886363974",
+    "firebase_url": "https://image-recognizer-dd3a3.firebaseio.com",
+    "project_id": "image-recognizer-dd3a3",
+    "storage_bucket": "image-recognizer-dd3a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596886363974:android:e1105efa8ac3f9c8",
+        "android_client_info": {
+          "package_name": "minorproject.project.imagerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596886363974-4mg90bmuue4namu3ue6obaaja3u82pl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "minorproject.project.imagerecognition",
+            "certificate_hash": "be7a1d8f10fc4f3f5b1af4f484baf688f7ba5b79"
+          }
+        },
+        {
+          "client_id": "596886363974-uvglcl9tkq9v6brpkcn4t5mm4sbpkqnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT3bON5Gq2uXe1g7NScu9BPSg38_mMPB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596886363974-uvglcl9tkq9v6brpkcn4t5mm4sbpkqnc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

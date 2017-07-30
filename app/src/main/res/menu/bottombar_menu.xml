@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bb_chat"
+        android:icon="@mipmap/chat"
+        android:title="Chats" />
+    <item
+        android:id="@+id/bb_text"
+        android:icon="@mipmap/text"
+        android:title="Text" />
+
+    <item
+        android:id="@+id/bb_object"
+        android:icon="@mipmap/object"
+        android:title="Object" />
+
+    <item
+        android:id="@+id/bb_fav"
+        android:icon="@mipmap/fav"
+        android:title="Favorites" />
+    <item
+        android:id="@+id/bb_setting"
+        android:icon="@mipmap/setting"
+        android:title="Settings" />
+</menu>
