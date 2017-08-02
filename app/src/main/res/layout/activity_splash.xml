@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/dark"
+    android:background="@color/medium"
     tools:context="minorproject.project.imagerecognition.SplashActivity">
 
     <ImageView
@@ -13,7 +13,7 @@
         android:layout_height="match_parent"
         android:layout_width="match_parent"
         android:layout_gravity="center"
-        app:srcCompat="@mipmap/ic_launcher"
+        app:srcCompat="@mipmap/logo"
          />
 
 

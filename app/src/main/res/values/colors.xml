@@ -5,9 +5,9 @@
     <!--303F9F-->
     <color name="colorAccent">#FF4081</color>
     <color name="back">#fce4ec</color>
-    <color name="medium">#1565c0</color>
-    <color name="light">#5e92f3</color>
-    <color name="dark">#003c8f</color>
+    <color name="medium">#616161</color>
+    <color name="light">#8e8e8e</color>
+    <color name="dark">#373737</color>
 
     <color name="bg_login">#26ae90</color>
     <color name="bg_register">#2e3237</color>
