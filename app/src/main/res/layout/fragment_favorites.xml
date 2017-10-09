@@ -6,12 +6,12 @@
     tools:context="minorproject.project.imagerecognition.FavoritesFragment">
 
     <!-- TODO: Update blank fragment layout -->
-    <android.support.v7.widget.RecyclerView
-        android:id="@+id/tvMain"
+    <ListView
+        android:id="@+id/list1"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scrollbars="none"
         android:layout_margin="8dp">
 
-    </android.support.v7.widget.RecyclerView>
+    </ListView>
 </LinearLayout>
